@@ -17,5 +17,5 @@ To run this project,
 
 Download the files.
 Open it on VSCode(or any other editor).
-In the folder dhakai-assignment, type the command "npm start".
+In the folder, type the command "npm start".
 It will run in your browser.
